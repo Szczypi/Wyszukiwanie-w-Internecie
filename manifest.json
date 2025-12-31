@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "Wyszukiwanie w Internecie",
+  "version": "1.0",
+  "description": "Menu kontekstowe do wyszukiwania w sieci.",
+  "icons": {
+    "48": "search-icon48.png",
+	"64": "search-icon64.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "contextMenus",
+	"scripting",
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "search-icon48.png",
+	  "64": "search-icon64.png"
+    },
+    "default_title": "Wyszukaj w Internecie"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["searchscript.js"]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "szczypi@hotmail.com"
+    }
+  }
+}
