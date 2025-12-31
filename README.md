@@ -4,7 +4,7 @@ Wygodny dodatek do Firefoxa umożliwiający wyszukiwanie zaznaczonego tekstu w w
 
 ## Funkcjonalność
 
-- **Menu kontekstowe** - Zaznacz tekst na stronie i kliknij prawym przyciskiem myszy, aby uzyskać dostęp do menu wyszukiwania.
+- **Menu kontekstowe** - Zaznacz tekst i kliknij prawym przyciskiem myszy, aby uzyskać dostęp do menu wyszukiwania.
 - **Wyszukiwarka Google** - Obsługuje wyszukiwanie w: Google, YouTube, X (Twitter), Facebook i inne.
 - **Autoukrywanie menu** - Menu wyświetla się tylko podczas zaznaczonego tekstu potrzebnego do wyszukania.
 - **Otwieranie w nowej karcie** - Każde wyszukiwanie otwiera się w nowych kartach przeglądarki.
