@@ -1,6 +1,6 @@
 # ![Google Search](https://github.com/user-attachments/assets/c15d0206-9cab-47f3-a620-98bbafc0b0fa) Wyszukaj w Internecie
 
-Wygodny dodatek do Firefoxa umożliwiający wyszukiwanie zaznaczonego tekstu w wybranych serwisach internetowych za pomocą szybkiego menu kontekstowego (prawym przyciskiem myszy).
+Wygodny dodatek do Firefoxa umożliwiający wyszukiwanie zaznaczonego tekstu w wybranych serwisach internetowych za pomocą szybkiego menu kontekstowego **(prawym przyciskiem myszy)**.
 
 ## Funkcjonalność
 
