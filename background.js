@@ -14,7 +14,7 @@ const searchEngines = [
   {
     id: "x",
     title: "X (Twitter)",
-    url: "https://twitter.com/search?q=",
+    url: "https://x.com/search?q=",
     icon: "icons/x.png"
   },
   {
